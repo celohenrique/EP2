@@ -27,3 +27,5 @@ static uint32_t check_partition_size(uint32_t);
 static void	check_starting_sector(uint32_t);
 static void	check_partition_fs(uint32_t);
 static char *	sector_to_size_str(uint32_t);
+
+https://gist.github.com/glen-mac/8ba1ee9b96767fed74db24defabc1d7e
